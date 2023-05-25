@@ -31,3 +31,11 @@ trademarks or logos is subject to and must follow
 [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
 Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
 Any use of third-party trademarks or logos are subject to those third-party's policies.
+
+## Where to use Low Code Plugins
+
+Low Code Plugins are currently supported in Canvas Apps and Custom Pages (model-driven apps). They are not currently available in the Modern Commanding module of model-driven apps. 
+
+## Adding Low Code Plugins to Solutions
+
+After creating your Low Code Plugin via the Dataverse Accelerator App. Go to the Maker Portal (make.powerapps.com), access the solution to which you wish to add your plugin.  Select 'Add Existing', 'More', then 'Other' and 'FxExpression'. You will see the plugin you created via the Accelerator App there. 
